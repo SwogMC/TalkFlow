@@ -1,6 +1,6 @@
 # TalkFlow
 
-TalkFlow is a modern, AI-powered voice application that enables real-time conversational voice interaction, automated speech analysis, and dynamic response generation with low-latency audio streaming.
+TalkFlow is a modern, AI-powered application designed for practicing sales pitches, improving communication skills, and receiving real-time, intelligent feedback on your performance
 
 ## 🚀 Links
 - **Live Demo:** [View Live App][https://temporary-express-harp-b9kgzal-o0q8sxi16-anon-mu-topaz.vercel.app/]
